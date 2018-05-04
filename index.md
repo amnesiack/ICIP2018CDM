@@ -3,7 +3,7 @@
                      Kai Cui, Zhi Jin, Eckehard Steinbach
              Chair of Media Technology, Technical University of Munich
 
-## Motivation
+## Abstract
 
 ## Proposed Structure
 
