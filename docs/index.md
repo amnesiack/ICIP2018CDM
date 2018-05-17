@@ -1,4 +1,4 @@
-## Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure
+<center> ## Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure </center>
 <center> ICIP 2018 </center>
 <center> Kai Cui, Zhi Jin, Eckehard Steinbach </center>
 <center> Chair of Media Technology, Technical University of Munich </center>
@@ -12,6 +12,7 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 ![CNNCDM-3Stage](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/CDM_new3stages1.4_compact.png "Structure of the proposed 3-stage CNN scheme")
 
 ### Evaluation
+
 
 
 ### Source Code
