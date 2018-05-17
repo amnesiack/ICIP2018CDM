@@ -1,4 +1,4 @@
-<center> ## Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure </center>
+## <center> Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure </center>
 <center> ICIP 2018 </center>
 <center> Kai Cui, Zhi Jin, Eckehard Steinbach </center>
 <center> Chair of Media Technology, Technical University of Munich </center>
