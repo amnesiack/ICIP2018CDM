@@ -71,47 +71,47 @@ kodim01.png Original Image
   
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Origin_Image_mark.png)
   
-kodim01.png AHD (38.29dB)
+kodim01.png AHD (35.12dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/AHD.png)
 
-kodim01.png DLMMSE (41.05dB)
+kodim01.png DLMMSE (38.52dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/DLMMSE.png)
 
-kodim01.png DLMMSE (41.83dB)
+kodim01.png DLMMSE (39.62dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/GBTF.png)
 
-kodim01.png LDI-NAT (37.78dB)
+kodim01.png LDI-NAT (35.29dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/LDI-NAT.png)
 
-kodim01.png RI (39.16dB)
+kodim01.png RI (35.57dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/RI.png)
 
-kodim01.png MLRI (39.92dB)
+kodim01.png MLRI (36.80dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/MLRI.png)
 
-kodim01.png ARI (40.50dB)
+kodim01.png ARI (38.84dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/ARI.png)
 
-kodim01.png RI-modified (39.46dB)
+kodim01.png RI-modified (36.33dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/RI-modified.png)
 
-kodim01.png ARI-modified (40.57dB)
+kodim01.png ARI-modified (38.84dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/ARI-modified.png)
 
-kodim01.png 2-stage (41.74dB)
+kodim01.png 2-stage (40.62dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/2-Stage.png)
 
-kodim01.png Proposed (42.82dB)
+kodim01.png Proposed (41.93dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Proposed.png)
 
