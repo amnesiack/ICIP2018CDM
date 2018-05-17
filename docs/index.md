@@ -69,7 +69,7 @@ kodim19.png Proposed (42.82dB)
 
 kodim01.png Original Image
   
-![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Origin_Image_mark_kodim01.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Origin_Image_mark.png)
   
 kodim01.png AHD (38.29dB)
 
