@@ -12,6 +12,9 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 ![CNNCDM-3Stage](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/CDM_new3stages1.4_compact.png "Structure of the proposed 3-stage CNN scheme")
 
 ### Evaluation
+
+<center>
+  
 kodim19.png Original Image
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
@@ -59,6 +62,8 @@ kodim19.png 2-stage (41.74dB)
 kodim19.png Proposed (42.82dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Proposed.png)
+
+<\center>
 
 ### Source Code
 https://github.com/amnesiack/ICIP2018CDM
