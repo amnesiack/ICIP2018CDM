@@ -13,56 +13,53 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 
 ### Evaluation
 
-<center>
-  kodim19.png Original Image
+kodim19.png Original Image
   
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
   
-  kodim19.png AHD (38.29dB)
+kodim19.png AHD (38.29dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/AHD.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/AHD.png)
 
-  kodim19.png DLMMSE (41.05dB)
+kodim19.png DLMMSE (41.05dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/DLMMSE.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/DLMMSE.png)
 
-  kodim19.png DLMMSE (41.83dB)
+kodim19.png DLMMSE (41.83dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/GBTF.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/GBTF.png)
 
-  kodim19.png LDI-NAT (37.78dB)
+kodim19.png LDI-NAT (37.78dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/LDI-NAT.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/LDI-NAT.png)
 
-  kodim19.png RI (39.16dB)
+kodim19.png RI (39.16dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI.png)
 
-  kodim19.png MLRI (39.92dB)
+kodim19.png MLRI (39.92dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/MLRI.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/MLRI.png)
 
-  kodim19.png ARI (40.50dB)
+kodim19.png ARI (40.50dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI.png)
 
-  kodim19.png RI-modified (39.46dB)
+kodim19.png RI-modified (39.46dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI-modified.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI-modified.png)
 
-  kodim19.png ARI-modified (40.57dB)
+kodim19.png ARI-modified (40.57dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI-modified.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI-modified.png)
 
-  kodim19.png 2-stage (41.74dB)
+kodim19.png 2-stage (41.74dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/2-Stage.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/2-Stage.png)
 
-  kodim19.png Proposed (42.82dB)
+kodim19.png Proposed (42.82dB)
 
-  ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Proposed.png)
-
-<\center>
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Proposed.png)
 
 ### Source Code
 https://github.com/amnesiack/ICIP2018CDM
