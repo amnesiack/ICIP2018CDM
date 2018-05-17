@@ -16,12 +16,3 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 
 ### Source Code
 https://github.com/amnesiack/ICIP2018CDM
-
-@INPROCEEDINGS{LMT2018-1279,
-author = {Kai Cui AND Zhi Jin AND Eckehard Steinbach},
-title = {Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure},
-booktitle = {{IEEE} International Conference on Image Processing ({ICIP} 2018)},
-month = {Oct},
-year = {2018},
-address = {Athens, Greece}
-}
