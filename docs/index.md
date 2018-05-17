@@ -65,5 +65,55 @@ kodim19.png Proposed (42.82dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Proposed.png)
 
+#### kodim01.png from Kodak dataset
+
+kodim01.png Original Image
+  
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Origin_Image_mark_kodim01.png)
+  
+kodim01.png AHD (38.29dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/AHD.png)
+
+kodim01.png DLMMSE (41.05dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/DLMMSE.png)
+
+kodim01.png DLMMSE (41.83dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/GBTF.png)
+
+kodim01.png LDI-NAT (37.78dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/LDI-NAT.png)
+
+kodim01.png RI (39.16dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/RI.png)
+
+kodim01.png MLRI (39.92dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/MLRI.png)
+
+kodim01.png ARI (40.50dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/ARI.png)
+
+kodim01.png RI-modified (39.46dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/RI-modified.png)
+
+kodim01.png ARI-modified (40.57dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/ARI-modified.png)
+
+kodim01.png 2-stage (41.74dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/2-Stage.png)
+
+kodim01.png Proposed (42.82dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Proposed.png)
+
 ### Source Code
 https://github.com/amnesiack/ICIP2018CDM
