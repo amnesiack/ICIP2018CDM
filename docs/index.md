@@ -118,4 +118,4 @@ kodim01.png Proposed (41.93dB)
 For more objective evaluation results, please refer to our paper.
 
 ### Source Code
-https://github.com/amnesiack/ICIP2018CDM
+<https://github.com/amnesiack/ICIP2018CDM>
