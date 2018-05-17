@@ -1,9 +1,9 @@
-#Demo code for paper "COLOR IMAGE DEMOSAICKING USING A 3-STAGE CONVOLUTIONAL NEURAL NETWORK STRUCTURE"
-#K. Cui, Z. Jin, E. Steinbach, Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure,IEEE International Conference on Image Processing (ICIP 2018), Athens, Greece, Oktober 2018.
-#Kai Cui <Kai.cui@tum.de>
-#Lehrstuhl fuer Medientechnik
-#Technische Universitaet Muenchen
-#Last modified 17.05.2018
+# Demo code for paper "COLOR IMAGE DEMOSAICKING USING A 3-STAGE CONVOLUTIONAL NEURAL NETWORK STRUCTURE"
+# K. Cui, Z. Jin, E. Steinbach, Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure,IEEE International Conference on Image Processing (ICIP 2018), Athens, Greece, Oktober 2018.
+# Kai Cui <Kai.cui@tum.de>
+# Lehrstuhl fuer Medientechnik
+# Technische Universitaet Muenchen
+# Last modified 17.05.2018
 
 1. Please download the matconvnet toolbox from http://www.vlfeat.org/matconvnet/ and install it according to the instructions from their website.
 2. Please uncompress the *.zip file and put the whole project fold in the following path, ./Matconvnet-1.0-beta2X/examples/
