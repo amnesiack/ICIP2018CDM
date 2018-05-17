@@ -13,6 +13,8 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 
 ### Evaluation
 
+You can download the original images and zoom in for better visual quality, you can easily notice the difference for area with the green box.
+
 kodim19.png Original Image
   
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
