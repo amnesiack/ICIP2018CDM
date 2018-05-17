@@ -8,7 +8,7 @@ Color demosaicking (CDM) is a critical first step for the acquisition of high-qu
 
 ### Proposed Structure
 Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN structure for color demosaicking.
-![CNNCDM-3Stage](图片链接 "optional title")
+![CNNCDM-3Stage](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/CDM_new3stages1.4_compact.png "Structure of the proposed 3-stage CNN scheme")
 ### Evaluation
 
 ### Reference
