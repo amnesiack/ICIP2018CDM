@@ -12,11 +12,30 @@ Inspired by inter-channel correlation, in this paper, we propose a 3-stage CNN s
 ![CNNCDM-3Stage](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/CDM_new3stages1.4_compact.png "Structure of the proposed 3-stage CNN scheme")
 
 ### Evaluation
-kodim19.png
-
-
-
-
+kodim19.png Original Image
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
+kodim19.png AHD (38.29dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/AHD.png)
+kodim19.png DLMMSE (41.05dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/DLMMSE.png)
+kodim19.png DLMMSE (41.83dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/GBTF.png)
+kodim19.png LDI-NAT (37.78dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/LDI-NAT.png)
+kodim19.png RI (39.16dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI.png)
+kodim19.png MLRI (39.92dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/MLRI.png)
+kodim19.png ARI (40.50dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI.png)
+kodim19.png RI-modified (39.46dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/RI-modified.png)
+kodim19.png ARI-modified (40.57dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/ARI-modified.png)
+kodim19.png 2-stage (41.74dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/2-Stage.png)
+kodim19.png Proposed (42.82dB)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Proposed.png)
 
 ### Source Code
 https://github.com/amnesiack/ICIP2018CDM
