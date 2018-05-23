@@ -33,7 +33,7 @@ fileTrain = fileAll(1:end-100, :);
 imagesTrain = cell(numel(fileTrain),1);
 patchTrain  = uint8([]);
 % Color Transform for all frames
-for i = 1 : numel(fileTrain)-100
+for i = 1 : numel(fileTrain)
     fprintf('The %dth training image\n', i);
     imagesTrain{i} = imread([Filepath fileTrain(i).name]);
     patch_temp     = im2patch_color(imagesTrain{i}, blocksize);
