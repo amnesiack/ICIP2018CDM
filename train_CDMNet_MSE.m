@@ -20,6 +20,7 @@ net = CDMNet;
 % Part 3: train and evaluate the CNN
 % -------------------------------------------------------------------------
 opts.train.batchSize    = 64;
+opts.train.numSubBatches= 1;
 opts.train.continue     = true;
 opts.train.gpus         = [1];
 opts.train.prefetch     = false;
