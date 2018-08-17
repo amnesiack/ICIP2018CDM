@@ -10,4 +10,5 @@
 3. Please copy the customized layer functions vl_nnsplit.m, vl_nnsplit_new.m in the ./customized_layers/ to ./Matconvnet-1.0-beta2X/matlab/; Copy the Split.m, Split_new.m in the ./customized_layers/ to ./Matconvnet-1.0-beta2X/matlab/+dagnn/;
 4. The script test_CDMNet.m is a demo for testing using the trained model which is stored in ./model/CNNCDM.mat
 5. In case you would like to train the network. The traing dataset used is the Waterloo Exploration Database. Please download the dataset here https://ece.uwaterloo.ca/~k29ma/exploration/ and put all the images in ./pristine_images/; and then run mosaicked_image_generation to generate the bilinear initial CDM input of the network; and then run train_CDMNet_MSE for training.
-6. Have fun!
+6. Please read our paper for more details!
+7. Have fun!
