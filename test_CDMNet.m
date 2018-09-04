@@ -3,7 +3,7 @@
 %Kai Cui <Kai.cui@tum.de>
 %Lehrstuhl fuer Medientechnik
 %Technische Universitaet Muenchen
-%Last modified 17.05.2018
+%Last modified 04.09.2018
 %% Initialization
 clc
 clear;
