@@ -12,3 +12,13 @@
 5. In case you would like to train the network. The traing dataset used is the Waterloo Exploration Database. Please download the dataset here https://ece.uwaterloo.ca/~k29ma/exploration/ and put all the images in ./pristine_images/; and then run mosaicked_image_generation to generate the bilinear initial CDM input of the network; and then run train_CDMNet_MSE for training.
 6. Please read our paper for more details!
 7. Have fun!
+
+
+@INPROCEEDINGS{LMT2018-1279,
+author = {Kai Cui AND Zhi Jin AND Eckehard Steinbach},
+title = {Color Image Demosaicking using a 3-stage Convolutional Neural Network Structure},
+booktitle = {{IEEE} International Conference on Image Processing ({ICIP} 2018)},
+month = {Oct},
+year = {2018},
+address = {Athens, Greece}
+}
