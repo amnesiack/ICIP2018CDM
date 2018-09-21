@@ -119,3 +119,6 @@ For more objective evaluation results, please refer to our paper.
 
 ### Source Code
 <https://github.com/amnesiack/ICIP2018CDM>
+
+### Full paper
+<https://ieeexplore.ieee.org/document/8451020/>
