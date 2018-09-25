@@ -115,6 +115,56 @@ kodim01.png Proposed (41.93dB)
 
 ![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Proposed.png)
 
+#### 03168.bmp from WED dataset
+
+03168.bmp Original Image
+  
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/Origin_Image_mark.png)
+  
+03168.bmp AHD (29.01dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/AHD.png)
+
+03168.bmp DLMMSE (31.09dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/DLMMSE.png)
+
+03168.bmp DLMMSE (31.47dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/GBTF.png)
+
+03168.bmp LDI-NAT (29.86dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/LDI-NAT.png)
+
+03168.bmp RI (29.49dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/RI.png)
+
+03168.bmp MLRI (30.16dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/MLRI.png)
+
+03168.bmp ARI (29.64dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/ARI.png)
+
+03168.bmp RI-modified (29.69dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/RI-modified.png)
+
+03168.bmp ARI-modified (29.98dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/ARI-modified.png)
+
+03168.bmp 2-stage (33.57dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/2-Stage.png)
+
+03168.bmp Proposed (33.90dB)
+
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/Proposed.png)
+
 For more objective evaluation results, please refer to our paper.
 
 ### Source Code
