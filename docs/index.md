@@ -19,7 +19,7 @@ You can download the original images and zoom in for better visual quality, you 
 
 kodim19.png Original Image
   
-![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/Origin_Image_mark_kodim19.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon/GroundTruth.png)
   
 kodim19.png AHD (38.29dB)
 
@@ -69,7 +69,7 @@ kodim19.png Proposed (42.82dB)
 
 kodim01.png Original Image
   
-![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/Origin_Image_mark.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon1/GroundTruth.png)
   
 kodim01.png AHD (35.12dB)
 
@@ -119,7 +119,7 @@ kodim01.png Proposed (41.93dB)
 
 03168.bmp Original Image
   
-![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/Origin_Image_mark.png)
+![](https://github.com/amnesiack/ICIP2018CDM/raw/master/docs/Recon2/GroundTruth.png)
   
 03168.bmp AHD (29.01dB)
 
