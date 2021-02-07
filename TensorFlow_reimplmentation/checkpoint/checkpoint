@@ -1,0 +1,2 @@
+model_checkpoint_path: "CNNCDM-3Stage-000000"
+all_model_checkpoint_paths: "CNNCDM-3Stage-000000"

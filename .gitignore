@@ -1,0 +1,12 @@
+.idea/
+sample/
+logs/
+test/
+trained_model/
+*/data/CDM/
+
+*.npy
+*.pyc
+*.tar.gz
+*.pptx
+*.tfrecords
